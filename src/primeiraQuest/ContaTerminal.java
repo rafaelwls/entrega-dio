@@ -1,3 +1,5 @@
+package primeiraQuest;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
